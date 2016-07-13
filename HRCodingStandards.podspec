@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, ‘7.0’    
   s.requires_arc = true  
   
-  s.source_files = 'WZMarqueeView/*'  
+  s.source_files = 'Risenb iOS开发Objective-C编码规范.md'  
    
   # s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'  
   
